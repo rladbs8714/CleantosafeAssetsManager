@@ -1,0 +1,14 @@
+13:03:43.35764 HRMControl          initializeHRListByJson   "HRM\human_resources.json"의 json을 읽어들이는데 실패했습니다.
+14:44:21.92918 HRMControl          initializeHRListByJson   "HRM\human_resources.json"의 json을 읽어들이는데 실패했습니다.
+14:45:04.12214 HRMControl          initializeHRListByJson   "HRM\human_resources.json"의 json을 읽어들이는데 실패했습니다.
+14:47:47.72409 HRMControl          initializeHRListByJson   "HRM\human_resources.json"의 json을 읽어들이는데 실패했습니다.
+14:48:03.84058 HRMControl          initializeHRListByJson   "HRM\human_resources.json"의 json을 읽어들이는데 실패했습니다.
+14:53:53.95713 HRMControl          InitializeHRListByJson   "HRM\human_resources.json"의 json을 읽어들이는데 실패했습니다.
+15:00:47.33757 HRMControl          InitializeHRListByJson   "HRM\human_resources.json"의 json을 읽어들이는데 실패했습니다.
+17:52:07.18155 HRMControl          InitializeHRListByJson   "Inventory\inventory_resources.json"의 json을 읽어들이는데 실패했습니다.
+17:55:17.63854 HRMControl          InitializeHRListByJson   "Inventory\inventory_resources.json"의 json을 읽어들이는데 실패했습니다.
+17:55:49.47745 HRMControl          InitializeHRListByJson   "Inventory\inventory_resources.json"의 json을 읽어들이는데 실패했습니다.
+22:58:21.60408 HRMControl          InitializeHRListByJson   "Inventory\inventory_resources.json"의 json을 읽어들이는데 실패했습니다.
+23:47:58.82480 HRMControl          InitializeHRListByJson   "Inventory\inventory_resources.json"의 json을 읽어들이는데 실패했습니다.
+23:52:23.99616 DTOFileIO           TryLoadFile              FILE_PATH의 파일이 존재하지 않습니다. inventory 경로에 공백파일을 생성합니다.
+23:52:24.02706 HRMControl          InitializeHRListByJson   "inventory\chemical_resources.json"의 json을 읽어들이는데 실패했습니다.

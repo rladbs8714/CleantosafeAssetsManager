@@ -1,0 +1,26 @@
+<root>
+  <Human Name="김윤">
+    <PhoneNumber>010-8615-6358</PhoneNumber>
+    <BirthDate>1997-05-26</BirthDate>
+    <Gender>남자</Gender>
+    <Address>경기도 의정부시 둔야로 45번길 11, 404호</Address>
+    <Detail>
+      <SamsungSDI>
+        <VPass>
+          <ID>ctsky</ID>
+          <PW>clean2safe*</PW>
+        </VPass>
+        <MEHS>
+          <ID>ctsky</ID>
+          <PW>clean2safe*</PW>
+        </MEHS>
+      </SamsungSDI>
+      <SKHynix>
+        <Welcome>
+          <ID>ctsky</ID>
+          <PW>qwert12345</PW>
+        </Welcome>
+      </SKHynix>
+    </Detail>
+  </Human>
+</root>

@@ -1,0 +1,2 @@
+18:20:21.41130 DTOFileIO           TryLoadFile              FILE_PATH의 파일이 존재하지 않습니다. inventory 경로에 공백파일을 생성합니다.
+18:20:21.44360 HRMControl          InitializeHRListByJson   "inventory\equipment_resources.json"의 json을 읽어들이는데 실패했습니다.
