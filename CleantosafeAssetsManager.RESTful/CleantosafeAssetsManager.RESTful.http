@@ -1,0 +1,8 @@
+﻿@CleantosafeAssetsManager.RESTful_HostAddress = https://localhost:7295
+
+POST {{CleantosafeAssetsManager.RESTful_HostAddress}}/api/hrm
+Content-Type: application/json
+
+"{{CleantosafeAssetsManager.RESTful_HostAddress}}/api/hrm"
+
+###

@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleantosafeAssetsManager", "CleantosafeAssetsManager\CleantosafeAssetsManager.csproj", "{1930624F-BBEC-4B10-9036-69FCE96CFB44}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C811AAE7-EE4E-4A4D-8099-9DDC275109AB}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleantosafeAssetsManager.RESTful", "CleantosafeAssetsManager.RESTful\CleantosafeAssetsManager.RESTful.csproj", "{0E37A9E7-2AE7-42C2-9A20-C9D7951CD2E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleantosafeAssetsManager.DTO", "CleantosafeAssetsManager.VO\CleantosafeAssetsManager.DTO.csproj", "{532924AE-7B14-414D-B864-CD5DDE40C2B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{8432BDFE-C5E7-4AE7-871B-D0291A7E8BC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleantosafeAssetsManager.Core", "CleantosafeAssetsManager.Core\CleantosafeAssetsManager.Core.csproj", "{975F9D06-DD58-4A79-94CD-CC377F1F39D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1930624F-BBEC-4B10-9036-69FCE96CFB44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1930624F-BBEC-4B10-9036-69FCE96CFB44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1930624F-BBEC-4B10-9036-69FCE96CFB44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1930624F-BBEC-4B10-9036-69FCE96CFB44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E37A9E7-2AE7-42C2-9A20-C9D7951CD2E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E37A9E7-2AE7-42C2-9A20-C9D7951CD2E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E37A9E7-2AE7-42C2-9A20-C9D7951CD2E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E37A9E7-2AE7-42C2-9A20-C9D7951CD2E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{532924AE-7B14-414D-B864-CD5DDE40C2B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{532924AE-7B14-414D-B864-CD5DDE40C2B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{532924AE-7B14-414D-B864-CD5DDE40C2B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{532924AE-7B14-414D-B864-CD5DDE40C2B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8432BDFE-C5E7-4AE7-871B-D0291A7E8BC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8432BDFE-C5E7-4AE7-871B-D0291A7E8BC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8432BDFE-C5E7-4AE7-871B-D0291A7E8BC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8432BDFE-C5E7-4AE7-871B-D0291A7E8BC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{975F9D06-DD58-4A79-94CD-CC377F1F39D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{975F9D06-DD58-4A79-94CD-CC377F1F39D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{975F9D06-DD58-4A79-94CD-CC377F1F39D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{975F9D06-DD58-4A79-94CD-CC377F1F39D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FC0CFA9-C39F-4320-A088-77E224535477}
+	EndGlobalSection
+EndGlobal
